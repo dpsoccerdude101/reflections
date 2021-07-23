@@ -5,7 +5,7 @@
 
 This was my Experience:
 1. Dragon's Emojis are Unicode!!
-2. Digital, not analog
+2. Analog, not digital
 3. Dragons are not dangerous
 
 #### Are you happy with your method of duplication?
